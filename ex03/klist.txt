@@ -1,0 +1,5 @@
+Credentials cache: API:FA3BF76D-4CE3-410D-A5EF-4F712E7AB3A2
+        Principal: csanz@42.FR
+
+  Issued                Expires               Principal
+Feb  3 14:23:22 2020  Feb 10 14:23:11 2020  krbtgt/42.FR@42.FR
